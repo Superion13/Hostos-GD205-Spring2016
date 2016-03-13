@@ -1,0 +1,320 @@
+col code
+
+
+using UnityEngine;
+using System.Collections;
+
+public class col : MonoBehaviour {
+
+	void OnCollisionEnter (Collision cube)
+	{
+		if(cube.gameObject.name == "Cube (10)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (11)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (12)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (13)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (14)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (15)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (20)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (21)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (22)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (23)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (24)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (25)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (26)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (27)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (28)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (29)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (30)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (31)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (32)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (33)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (34)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (35)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (36)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (37)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (38)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (39)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (40)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (41)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (42)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (43)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (44)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (45)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (46)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (47)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (48)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (49)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (50)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (51)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (52)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (53)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (54)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (55)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (56)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (57)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (58)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (59)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (60)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (61)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (62)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (63)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (64)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (65)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (66)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (67)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (68)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (69)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (70)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (71)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (72)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (73)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (74)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (75)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (76)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (77)")
+		{
+			Destroy (cube.gameObject);
+		}
+		if(cube.gameObject.name == "Cube (78)")
+		{
+			Destroy (cube.gameObject);
+		}
+			
+	}
+}
+
+
+cyl code
+
+
+public class cyl : MonoBehaviour {
+
+	private float moveSpeed = 500f;
+	private Rigidbody rbody;
+
+	void Start ()
+	{
+		rbody = GetComponent<Rigidbody>();
+	}
+
+	// Update is called once per frame
+	void Update () {
+		float inputX = Input.GetAxis ("Horizontal");
+		float inputY = Input.GetAxis ("Vertical");
+
+		float moveX = inputX * moveSpeed * Time.deltaTime;
+		float moveY = inputY * moveSpeed * Time.deltaTime;
+
+		rbody.AddForce(moveX, 0f, moveY);
+
+	}
+}
+
+
+destroy code
+
+
+public class destroy : MonoBehaviour {
+
+	private float movex;
+	private float movey;
+	private float moveSpeed = 3f;
+
+	// Update is called once per frame
+	void FixedUpdate () {
+		movex = Input.GetAxis("Horizontal");
+		movey = Input.GetAxis("Vertical");
+
+		GetComponent<Rigidbody> ().velocity = new Vector2 (movex * moveSpeed, movey * moveSpeed);
+
+	}
+}
